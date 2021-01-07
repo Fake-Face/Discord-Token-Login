@@ -1,5 +1,4 @@
 # Discord-Token-Login
-Discord Token Login
 
 Go to the https://discord.com/ press CTRL+SHIFT+I or F12
 
