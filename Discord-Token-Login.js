@@ -7,4 +7,4 @@ location.reload();
 }, 2500);
 }
 
-login("THE TOKEN HERE")
+login("YOUR TOKEN HERE")
